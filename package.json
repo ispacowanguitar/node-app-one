@@ -1,0 +1,22 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "hello world app to learn js stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "test-command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispacowanguitar/node-app-one.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alex Ispa-Cowan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ispacowanguitar/node-app-one/issues"
+  },
+  "homepage": "https://github.com/ispacowanguitar/node-app-one#readme"
+}
